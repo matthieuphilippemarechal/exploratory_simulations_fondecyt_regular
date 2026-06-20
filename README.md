@@ -1,0 +1,1 @@
+This repository contains the Stata code used to conduct the exploratory Monte Carlo simulations supporting a FONDECYT research proposal. Each script outputs an Excel file with the empirical rejection rate of the null hypothesis across simulation replications.
